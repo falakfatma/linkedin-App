@@ -1,13 +1,10 @@
 .siderContainer{
   position:relative;
-  padding:1rem;
-  padding-right: 3rem;
-  padding-left: 3rem;
 }
 .card{
-  /* background:white; */
-  height:14rem;
-  width:12rem;
+  background:white;
+  width:14rem;
+  padding:.4rem;
 }
 .profile{
   display: flex;
