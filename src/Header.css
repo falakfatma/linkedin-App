@@ -1,0 +1,26 @@
+.headerContainer{
+  display:flex;
+  align-items: center;
+  background:#fff;
+  width:100%;
+  z-index: 3;
+  position:fixed;
+  justify-content:space-around;
+}
+.HeaderIconContainer{
+   display:flex;
+  margin-right:6rem;
+  
+}
+.HeaderIconList{
+  margin:1rem;
+  text-align:center;
+}
+.HeaderSearchContainer{
+  display:flex;
+  margin-left:6rem;
+  
+}
+.HeaderIcon{
+  margin-right:1rem;
+}

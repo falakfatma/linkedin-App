@@ -1,0 +1,13 @@
+body{
+  margin:0;
+  padding:0px;
+  font-family: system-ui;
+}
+.BodyContainer{
+  display:flex;
+  position:relative;
+  background:#ebeced;
+  width: 100%;
+  height: 100vh;
+  top: 5rem;
+}

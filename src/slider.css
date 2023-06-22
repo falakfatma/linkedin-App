@@ -1,0 +1,27 @@
+.siderContainer{
+  position:relative;
+  padding:1rem;
+  padding-right: 3rem;
+  padding-left: 3rem;
+}
+.card{
+  background:white;
+  height:14rem;
+  width:12rem;
+}
+.profile{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.siderFeedComponentsCardProfileLogo{
+  height:5rem;
+  width:5rem;
+  border-radius:3rem;
+  background:#e00000;
+}
+/* .paragraph{ */
+  /* margin: 5px; */
+  /* color: #a7abaf; */
+  /* font-family: monospace; */
+/* } */
