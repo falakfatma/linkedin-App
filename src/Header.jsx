@@ -1,10 +1,10 @@
 import "./Header.css"
-import LinkdenIcon from "./icon.png"
-import homeIcon from "./home.png"
-import peopleIcon from "./peopleIcon.png"
-import bag from "./bag.png"
-import bell from "./bell.png"
-import user from "./user.png"
+import LinkdenIcon from "./icon/icon.png"
+import homeIcon from "./icon/home.png"
+import peopleIcon from "./icon/peopleIcon.png"
+import bag from "./icon/bag.png"
+import bell from "./icon/bell.png"
+import user from "./icon/user.png"
 
 
 function Header() {

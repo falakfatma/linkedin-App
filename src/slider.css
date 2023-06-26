@@ -5,6 +5,8 @@
   background:white;
   width:14rem;
   padding:.4rem;
+  margin-bottom:1rem;
+  border-radius:.5rem;
 }
 .profile{
   display: flex;
@@ -19,6 +21,30 @@
 }
 .paragraph{
   margin: 5px;
+  font-size:small;
   /* color: #a7abaf; */
-  font-family: monospace;
+  /* font-family: monospace; */
+}
+.sliderCardHeading{
+  margin-bottom:.2rem;
+}
+.blueSiderContainerParagraph{
+  color:#0079f2;
+}
+.lightGreySiderContainerParagraph{
+  color:#717274;
+}
+.truncate{
+  white-space:nowrap!important;
+  overflow:hidden!important;
+  text-overflow:ellipsis!important;
+  color:#717274;
+}
+.anchorTagSlider{
+  text-decoration: none;
+  display:flex;
+}
+.row{
+  display:flex;
+  justify-content:space-between;
 }
