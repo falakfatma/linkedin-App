@@ -30,7 +30,9 @@ function AsidePage() {
         </div>
       </div>
       <div className=" bg-white mx-7 p-4 h-fit rounded-md">
-            
+          <h1> Unlock Your full poteintial with LinkeIn Premium</h1>
+          <h1> See who's viewed your profile in the last 90 days</h1>
+        <h1 className="border-2 border-blue-600 text-blue-600 w-32 py-1 text-center rounded-lg">Try for free</h1>
       </div>
     </div>
   )
