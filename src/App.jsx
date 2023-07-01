@@ -2,6 +2,7 @@ import './App.css'
 import Header from "./Header";
 import Slider from "./slider";
 import MainPage from "./main";
+import AsidePage from "./aside";
 
 export default function App() {
   return (
@@ -10,13 +11,13 @@ export default function App() {
       <Header />
       {/* Header Ends  */}
       {/* Body Starts */}
-      <div className='BodyContainer'>
+      <div className='px-16 py-12 flex relative bg-gray-100 h-full top-20'>
         {/* Body Left */}
         <Slider />
         {/* Body middle */}
         <MainPage />
         {/* Body right */}
-        {/* <aside /> */}
+        <AsidePage />
       </div>
       {/* Body Ends */}
     </main>
